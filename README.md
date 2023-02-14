@@ -29,7 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Try it out yourself
 
 To see a running version of this code, simply go to the [GPA Calculator App](https://ace-d-baugh.github.io/gpa-calculator-app/).
-- Use "1007", "1008", "1009", "1010", "1011", "1012" as a Student ID to enter the App
+- Use "1007", "1008", "1009", "1010", "1011", or "1012" as a Student ID to enter the App
 - Add a Course Name
 - Select a grade for the Course
 - Press "Save"
